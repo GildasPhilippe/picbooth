@@ -1,0 +1,4 @@
+PyQt5
+selenium
+python-dotenv
+google-api-python-client
